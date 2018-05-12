@@ -1,0 +1,29 @@
+att v iv p3 sing masc prf 			attiis				
+att v tv p3 sing masc prf 			ashshiis				
+aac v iv pass shortcnvb p1 sing 		aacetta			
+arggaac v iv cau fut 				arggaacissana				
+doom v iv p1 sing neg imfr 			doomikke			
+doom v iv p1 sing neg intr imfr 		doomikkinaa		
+doom v iv p1 sing intr imfr 			doomiyanaa			
+doom v iv p1 plr neg imfr 			doomokko				
+han v tv p3 sing fem neg imfr 			hanukku			
+han v tv p3 sing fem neg opt 			hanuppu			
+hem v tv p2 plr intr prf 			hemidetii				
+gixx v tv p1 plr imfr 				gixxoos					
+gixx v tv p1 sing intrEnding 			gixxoo			
+gixx v tv p2 sing opt 				gixxa					
+gixx v tv p2 sing imfr 				gixxaasa				
+gixx v tv p2 sing neg intr prf 			gixxabeikkii		
+gixx v tv p2 sing neg prf 			gixxabeakka			
+gixx v tv p2 sing intr prf 			gixxadii			
+gixx v tv p2 sing prf 				gixxadasa				
+gixx v tv p2 sing neg imfr 			gixxakka			
+imm v tv p3 sing masc prf 			immiis				
+imm v tv pass p3 sing masc prf 			imettiis			
+qachch v tv p3 sing masc prf 			qachchiis			
+qachch v tv pass p3 sing masc prf 		qashettiis		
+m v tv p3 sing masc prf 			miis					
+m v tv cau p3 sing masc prf 			miissiis			
+m v tv pass p3 sing masc prf 			meetettiis			
+b v iv p1 sing imfr 				baays					
+b v iv p3 sing masc imfr 			bees
